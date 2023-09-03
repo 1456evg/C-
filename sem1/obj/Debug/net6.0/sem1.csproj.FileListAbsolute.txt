@@ -1,0 +1,15 @@
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\bin\Debug\net6.0\sem1.exe
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\bin\Debug\net6.0\sem1.deps.json
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\bin\Debug\net6.0\sem1.runtimeconfig.json
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\bin\Debug\net6.0\sem1.dll
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\bin\Debug\net6.0\sem1.pdb
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.csproj.AssemblyReference.cache
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.AssemblyInfoInputs.cache
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.AssemblyInfo.cs
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.csproj.CoreCompileInputs.cache
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.dll
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\refint\sem1.dll
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.pdb
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\sem1.genruntimeconfig.cache
+D:\Users\EVGENIY\Desktop\Учеба\С# sem\sem1\obj\Debug\net6.0\ref\sem1.dll
